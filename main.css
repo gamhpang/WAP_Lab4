@@ -1,0 +1,95 @@
+header{
+    background-color: rgb(90, 224, 179);
+    display: flex;   
+    padding-left: 10px;
+}
+
+.bd{
+    border: 1px solid rgb(90, 224, 179);
+}
+
+
+footer  {
+    margin-top: 20px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 450px;
+    padding-top:10px;
+    height: 40px;
+}
+
+button{
+    background-color: rgb(90, 224, 179);
+    color: white;
+    font-weight: bold;
+    width: 120px;
+    height: 35px;
+    
+}
+
+
+
+.main-form{
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+
+h4{
+    text-decoration: underline;
+}
+
+
+.control{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.element{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+.element-lunch{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+
+.custom-selection{
+    width: 345px;
+}
+
+.cb{
+    display: flex;
+    flex-direction: column;
+    margin-right: 240px;
+}
+
+.label{
+    font-weight: bold;
+}
+
+span{
+    color:red
+}
+
+.more{
+    color: black;
+    background-color: rgb(90, 224, 179);
+    border: 0px;
+    margin-left: 40px;
+}
+
+.btn{
+    margin-left: 10px;
+}
