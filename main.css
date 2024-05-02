@@ -67,6 +67,7 @@ h4{
 
 .custom-selection{
     width: 345px;
+    height: 30px;
 }
 
 .cb{
@@ -92,4 +93,16 @@ span{
 
 .btn{
     margin-left: 10px;
+}
+
+input[type="text"]{
+    height: 30px;
+}
+
+input[type="email"]{
+    height: 30px;
+}
+
+input[type="tel"]{
+    height: 30px;
 }
